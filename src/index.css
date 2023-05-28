@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Cinzel Decorative", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.playgwent.com/build/img/footer/bg-footer-1440-dcbabc8a.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size:100% 100%;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
